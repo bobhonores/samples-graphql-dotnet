@@ -7,7 +7,7 @@ using HotChocolate.Types;
 using Sample.ToDoList.GraphQL.Data;
 using Sample.ToDoList.GraphQL.Models;
 
-namespace Sample.ToDoList.GraphQL.GraphQL.Lists
+namespace Sample.ToDoList.GraphQL.GraphQL.Types
 {
     public class ListType : ObjectType<List>
     {

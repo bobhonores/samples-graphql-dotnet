@@ -1,5 +1,5 @@
 using System;
-using System.Collections.Generic;
+// using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using HotChocolate;
@@ -7,7 +7,7 @@ using HotChocolate.Types;
 using Sample.ToDoList.GraphQL.Data;
 using Sample.ToDoList.GraphQL.Models;
 
-namespace Sample.ToDoList.GraphQL.GraphQL.Items
+namespace Sample.ToDoList.GraphQL.GraphQL.Types
 {
     public class ItemType : ObjectType<Item>
     {

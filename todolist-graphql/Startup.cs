@@ -7,8 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Sample.ToDoList.GraphQL.Data;
 using Sample.ToDoList.GraphQL.GraphQL;
-using Sample.ToDoList.GraphQL.GraphQL.Items;
-using Sample.ToDoList.GraphQL.GraphQL.Lists;
+using Sample.ToDoList.GraphQL.GraphQL.Types;
 
 namespace Sample.ToDoList.GraphQL
 {
